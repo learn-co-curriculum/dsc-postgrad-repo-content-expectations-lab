@@ -47,7 +47,7 @@ You used an example repository to reviewed what an employer expects to read and 
 
 ## README checklist
 
-- Content summary
+Content summary
   - [ ] Detailed description of your business question
   - [ ] A summary of your data science process, findings, and ideas future improvment
   - [ ] At least one interesting visuallization from your analysis
