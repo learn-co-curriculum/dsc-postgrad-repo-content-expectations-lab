@@ -1,4 +1,4 @@
-# Expected Content - Lab
+# Content Expectations - Lab
 
 
 ## Introduction
